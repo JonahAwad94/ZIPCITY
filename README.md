@@ -3,7 +3,9 @@ Zipcode and City look up app using React.js and ctp-zip-api
 
 
 Collaborators:
+
 Napat Karmniyanont
+
 Jonah Alexander-Awad
 
 
